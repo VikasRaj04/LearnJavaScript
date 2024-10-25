@@ -1,0 +1,42 @@
+html {
+    margin: 0;
+}
+
+span {
+    display: block;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+[id="#FFFFFF"]{
+    background: #FFFFFF;
+}
+
+[id="#121212"]{
+    background: #121212;
+}
+
+[id="#1F618D"]{
+    background: #1F618D;
+}
+
+[id="#6E2C00"]{
+    background: #6E2C00;
+}
+
+[id="#2C3E50"]{
+    background: #2C3E50;
+}
